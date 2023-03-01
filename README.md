@@ -21,7 +21,6 @@
         .-*###+=-::::::-=+*##*-.        
             :-=+**####**+=-:            
 
-
 This is a non-exhaustive list of Nostr public hex keys for known spam accounts. Each public hex key has been verified to have submitted spam notes.
 
 The list will NOT be used for censorship of any kind. The blocklist is purely to assist Nostr relay operators in the fight against spam.
