@@ -1,0 +1,6 @@
+    pubkey:
+      minBalance: 0
+      minLeadingZeroBits: 0
+      whitelist: []
+      blacklist:
+      - "e810fafa1e89cdf80cced8e013938e87e21b699b24c8570537be92aec4b12c18"
